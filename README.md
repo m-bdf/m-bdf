@@ -2,8 +2,9 @@
 
 I'm a French free software hacker, working mainly on NixOS ❄️
 
-[![Maëlys Bras de fer's GitHub stats](
-  https://github-readme-stats.vercel.app/api?username=m-bdf&hide_title=true&show_icons=true#gh-light-mode-only
-)![Maëlys Bras de fer's GitHub stats](
-  https://github-readme-stats.vercel.app/api?username=m-bdf&hide_title=true&show_icons=true&theme=dark#gh-dark-mode-only
-)](https://github.com/m-bdf)
+<picture>
+ <source media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=m-bdf&hide_title=true&show_icons=true&theme=dark">
+ <img alt="My stats"
+  src="https://github-readme-stats.vercel.app/api?username=m-bdf&hide_title=true&show_icons=true">
+</picture>
